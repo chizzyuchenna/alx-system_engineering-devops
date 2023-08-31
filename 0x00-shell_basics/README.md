@@ -1,2 +1,3 @@
-## Where am I
-script that prints the absolute path name of the current working directory.
+## Scripts
+1. Where am I?
+2. What’s in there?
