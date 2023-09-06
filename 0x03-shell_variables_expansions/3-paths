@@ -1,2 +1,2 @@
 #!/bin/bash
-echo PATH $path | tr ":" "\n" | wc -1
+echo $PATH | sed s/:/\\n/g | wc -|
